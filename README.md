@@ -8,7 +8,7 @@
 <div id="main" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=goochul-im&count_private=true&show_icons=true&theme=tokyonight"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmwtf&layout=compact"   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goochul-im&layout=compact"   
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
