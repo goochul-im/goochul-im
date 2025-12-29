@@ -6,10 +6,10 @@
 # Github Stat
 
 <div id="main" align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=goochul-im&count_private=true&show_icons=true&theme=tokyonight"
-         style="height: auto; padding: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goochul-im&layout=compact"
-         style="height: auto; padding: 10px;"/>
+  
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=goochul-im)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=goochul-im)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 </div>
 
 # Skills
