@@ -7,8 +7,7 @@
 
 <div id="main" align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=goochul-im)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=goochul-im)](https://github.com/pranesh-2005/github-readme-stats-fast)
+![My Stats](http://goochul.iptime.org:8080/api/stats?username=goochul-im&hide=typescript)
 
 </div>
 
